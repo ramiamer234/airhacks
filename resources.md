@@ -48,3 +48,13 @@ https://www.w3.org/TR/scxml/
 https://commons.apache.org/proper/commons-scxml/
 
 https://github.com/AdamBien/stateful
+
+https://firecracker-microvm.github.io/
+
+https://gvisor.dev/
+
+https://tanzu.vmware.com/kubernetes-grid
+
+https://containerd.io/
+
+https://www.inovex.de/blog/containers-docker-containerd-nabla-kata-firecracker/
