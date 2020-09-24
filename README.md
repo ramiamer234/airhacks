@@ -1,5 +1,5 @@
 # github.com/AdamBien/airhacks
-airhacks
+"Architecting and Designing Java, MicroProfile and Jakarta EE Applications"
 ========
 
 https://airhacks.live communication repository
