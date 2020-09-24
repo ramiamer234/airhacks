@@ -58,3 +58,27 @@ https://tanzu.vmware.com/kubernetes-grid
 https://containerd.io/
 
 https://www.inovex.de/blog/containers-docker-containerd-nabla-kata-firecracker/
+
+https://cloudevents.io/
+
+https://knative.dev/
+
+https://openwhisk.apache.org/
+
+https://www.openfaas.com/
+
+https://www.theserverside.com/discussions/thread/62590.html
+
+http://agilemodeling.com/artifacts/robustnessDiagram.htm
+
+https://www.agilemodeling.com/
+
+https://github.com/smallrye/smallrye-graphql
+
+https://blog.frankel.ch/hibernate-query-by-example/
+
+https://blogs.oracle.com/weblogicserver/helidon-enterprise-support-for-weblogic-and-coherence-customers
+
+https://debezium.io/
+
+https://github.com/AdamBien/docklands/tree/master/postgres-debezium
